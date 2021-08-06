@@ -1,0 +1,11 @@
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\bin\Debug\LINE_Backup_Create.exe.config
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\bin\Debug\LINE_Backup_Create.exe
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\bin\Debug\LINE_Backup_Create.pdb
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.csprojAssemblyReference.cache
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.Form1.resources
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.parsonListForm.resources
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.Properties.Resources.resources
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.csproj.GenerateResource.cache
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.csproj.CoreCompileInputs.cache
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.exe
+D:\作業用\C#\LINE_Backup_Create\LINE_Backup_Create\obj\Debug\LINE_Backup_Create.pdb
